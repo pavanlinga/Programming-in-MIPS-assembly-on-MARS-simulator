@@ -1,0 +1,12 @@
+########################
+Description
+########################
+
+This repository contains the programs to test the C functionalities in MARS simulator.
+The functionalities include
+-Strings
+-Arithmetic expressions 
+-Pointers
+-Recursion and stack
+
+All the programs are programmed in MIPS assembly
